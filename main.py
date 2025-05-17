@@ -21,7 +21,7 @@ def chunks(lst, n):
 def webhook(user):
     embed_data = {
         "title": "Username Available!",
-        "description": f"• **Username** : `{user} :>`\n [Join the Discord Server](https://discord.gg/1937)",
+        "description": f"• **Username** : `{user} :>`\n [Join the Discord Server](https://discord.gg/israil)",
         "color": 65280,
         "footer": {
             "text": "developed by duckevils [>.<]",
